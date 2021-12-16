@@ -1,6 +1,10 @@
 # Image Crawler
 This project was inspired by Thầy Trường.
+
+
 This version has threading and some **ERRORS**
+
+
 Enjoy using this program :D
 
 # Usage
