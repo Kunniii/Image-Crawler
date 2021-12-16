@@ -4,9 +4,6 @@ from threading import Thread
 
 system('mkdir output')
 
-valid_links = []
-valid_files = []
-
 raw_links = []
 raw_files = []
 
@@ -61,7 +58,6 @@ def download():
     return
 
 def main():
-    global valid_links
     try:
         print('Xin hay lua chon:\n1. K13\n2. K14\n3. K15\n4. K16\n5. K17\n>>> ', end='')
         y = int(input())
