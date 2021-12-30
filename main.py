@@ -35,7 +35,7 @@ def get_links(y):
             name = mjr+str(i)
             link = f"https://{authority}/ImageHandler.ashx?RollNumber="+ name +"&Campus=6"
             raw_links.append(link)
-            raw_files.append(f"{name}.png")
+            raw_files.append(f"{name}.jpg")
     return
             
 def download():
