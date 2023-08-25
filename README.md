@@ -6,9 +6,17 @@ This version has threading and some **ERRORS**
 
 Enjoy using this program :D
 
+## Installation
+
+Go to the repo, and install requirements.
+
+```bash
+$ pip install -r requirements.txt
+```
+
 ## Usage
 
-Simply download python 3 and run
+Simply download Python 3 and run
 
 ```bash
 python3 main.py # For Liunx
